@@ -1,0 +1,197 @@
+@font-face{
+    font-family: 'kana';
+    src: url(DancingScript-Bold.ttf)
+}
+
+@font-face{
+    font-family: 'apple';
+    src: url(Raleway-SemiBoldItalic.ttf)
+}
+
+@font-face{
+    font-family: 'ring';
+    src: url(Raleway-Regular.ttf)
+}
+
+
+
+
+body{
+    background: #fafafa;
+}
+
+.top{
+    background: #e614c6;
+    height: 20px;
+    
+}
+
+        
+header{
+    background: #00007c;
+    color: #fff;
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+    
+}
+
+.header{
+    font-size: 50px;
+    font-family: "kana";
+}
+
+.lefutonotameno{
+    padding-left: 230px;
+}
+    
+
+nav{
+    overflow: hidden;
+    margin-bottom: 40px;
+    align; center;
+
+}
+ul {
+    align; center;
+}
+
+nav li{
+    margin: auto;
+    float: left;
+    list-style-type: none;
+}
+
+nav a{
+    color:#00007c;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 30px;
+    display: block;
+    transition: 0.5s;
+    text-align: center;
+    font-family: "apple";
+    margin-left: 50px;
+    
+
+
+}
+
+nav a:hover{
+    color:#e614c6;
+}
+
+.main{
+    color: #050557;
+    text-align: center;
+}
+
+.main h1{
+    background: #fff;
+    font-size: 35px;
+    font-family: "apple";
+}
+    
+
+.main h2{
+    font-size: 30px;
+    font-family: "ring";
+    
+}
+
+.main p{
+    font-size: 25px;
+    background: #fff;
+    font-family: "ring";
+}
+
+.instagram{
+    width: 1265px;
+    height: 300px;
+}
+
+.insta{
+    text-align: center;
+    background: #fff;
+    font-family: "apple";
+}
+    
+
+.img{
+    width: 280px;
+    height: 280px;
+    margin-left: 25px;
+}
+
+footer{
+    height: 300px;
+    background: #050557;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 23px;
+    font-family: "kana";
+  
+    
+}
+
+footer a{
+    color: #fff;
+    font-size: 25px;
+    font-family: "ring";
+}
+    
+
+
+.menu a
+{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 30px 20px 8px 40px;
+    margin: auto;
+    font-family: "ring";
+}
+
+.menu a:hover{
+    color:#e614c6;
+    text-decoration: underline;
+    transition: 0.5s;
+    margin: auto;
+}
+
+.menu img{
+    width: 80px;
+    height: 80px;
+}
+    
+.under{
+    background: #e614c6;
+    height: 20px;
+    
+}
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

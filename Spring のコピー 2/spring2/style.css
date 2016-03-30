@@ -1,0 +1,284 @@
+@font-face{
+    font-family: 'color';
+    src: url(Raleway-ExtraLight.ttf)
+}
+
+@font-face{
+    font-family: 'color2';
+    src: url(Raleway-BlackItalic.ttf)
+}
+
+
+body{
+    background: #f9f9f9;
+}
+
+header h1{
+    text-align: center;
+    font-size: 59px;
+    color: #051b62;
+    font-family: "color2"
+    
+}
+
+
+
+nav{
+    overflow: hidden;
+    margin-bottom: 5px;
+    align: center;
+    height: 65px;
+    background: green;
+}
+
+ul{
+    aligm: center;
+}
+
+nav li{
+    margin: auto;
+    float: left;
+    list-style-type: none;
+}
+
+nav a{
+    padding: 5px 10px 5px 10px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: "color2";
+    
+}
+
+nav a:hover{
+    padding: 5px 10px 5px 10px;
+    color: #ff72ae;
+    text-decoration: none;
+    font-size: 23px;
+    transition: 0.5s;
+}
+    
+
+main{
+    padding-left: 60px;
+    width: 860px;
+    overflow: hidden;
+    padding: 20px;
+    float: left;
+    font-family: "color";
+}
+
+
+
+main h1{
+    text-align: center;
+    
+}
+
+.up{
+    background: #fff;
+    overflow: hidden;
+    font-size: 15px;
+}
+
+.color{
+    height: auto;
+    width: 860px;
+    float: left;
+    
+}
+
+.pink{
+    width: 215px;
+    height: auto;
+    float: left;
+    font-size: 15px;
+}
+
+.pnk h1{
+    font-size: 25px;
+}
+
+.pink img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+    
+
+.red{
+    width: 215px;
+    height: auto;
+    float: left;
+}
+
+.red img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+
+.red h1{
+    font-size: 30px;
+}
+
+.orange{
+    width: 215px;
+    height: auto;
+    float: left;
+    font-size: 15px;
+}
+
+.orange h1{
+    font-size: 30px;
+}
+
+
+.orange img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+
+.orange img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    
+}
+
+
+.yellow{
+    width: 215px;
+    height: auto;
+    float: left;
+    font-size: 15px;
+}
+
+.yellow h1{
+    font-size: 30px;
+}
+
+
+.yellow img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+  
+.color2{
+    height: auto;
+    width: 860px;
+    float: left;
+}
+    
+    
+.green{
+    width: 215px;
+    height: auto;
+    float: left;
+    font-size: 15px;
+}
+
+.green h1{
+    font-size: 30px;
+}
+
+
+.green img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+ 
+.blue{
+    width: 215px;
+    height: auto;
+    float: left;
+    font-size: 15px;
+}
+
+.blue h1{
+    font-size: 30px;
+}
+
+
+.blue img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+
+.purple{
+    width: 215px;
+    height: auto;
+    float: left;
+    font-size: 15px;
+}
+
+.purple h1{
+    font-size: 30px;
+}
+
+
+.purple img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+
+.white{
+    width: 215px;
+    height: auto;
+    float: left;
+    font-size: 15px;
+}
+
+.white h1{
+    font-size: 30px;
+}
+
+
+.white img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+    
+
+.sidebar{
+    width: 300px;
+    background: #fff;
+    float: left;
+    padding: 20px;
+    margin-left: 10px;
+    text-align: center;
+    font-family: "color2";
+}
+
+
+.sidebar img {
+width: 300px;
+height: 200px;
+display: inline-block;
+box-shadow: 0px 0px 40px -5px rgba(0, 0, 0, 0.8);
+}
+
+
+     
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
